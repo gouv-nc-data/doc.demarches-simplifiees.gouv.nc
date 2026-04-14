@@ -268,7 +268,7 @@ La DINUM et l’Administration mettent à la disposition de l’autorité de con
 
 La DINUM dispose de l’autorisation générale de l’Administration pour ce qui est du recrutement de sous-traitants ultérieurs sur la base d’une liste convenue.
 
-La DINUM tient la liste des sous-traitants ultérieurs à la disposition de l’Administration. L’Administration doit formuler sa demande à l’adresse [contact@demarche.numerique.gouv.fr](mailto:contact@demarches-simplifiees.fr).
+La DINUM tient la liste des sous-traitants ultérieurs à la disposition de l’Administration. L’Administration doit formuler sa demande à l’adresse [contact@demarche.numerique.gouv.fr](mailto:contact-demarches@gouv.nc).
 
 La DINUM informe l’Administration de tout projet de modification de cette liste par l’ajout ou le remplacement de sous-traitants ultérieurs.
 
