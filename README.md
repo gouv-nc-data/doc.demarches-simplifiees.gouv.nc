@@ -1,12 +1,10 @@
 ---
-description: "Cette page présente l'objectif de demarche.numerique.gouv.fr\_: la dématérialisation des procédures."
+description: "Cette page présente l'objectif de Démarches simplifiées\_: la dématérialisation des procédures."
 ---
 
 # Généralités
 
-« Démarche numérique » permet de dématérialiser des démarches administratives grâce à un générateur de formulaires et une plateforme d'instruction de dossiers. Il s'agit d'une application en ligne prête à l'emploi développée, hébergée et maintenue par la Direction Interministérielle du Numérique (DINUM), mise à disposition de l'ensemble des organismes publics. Elle est interconnectée à de nombreux services de l'État, notamment France Connect, API Entreprise, API Géo et BAN.
-
-### Pour rappel : La plateforme demarches-simplifiees.fr a changé de nom et s’appelle désormais demarche.numerique.gouv.fr.
+« Démarches simplifiées » permet de dématérialiser des démarches administratives grâce à un générateur de formulaires et une plateforme d'instruction de dossiers. Il s'agit d'une application en ligne prête à l'emploi développée, hébergée et maintenue par la direction du Numérique et de la modernisation (DINUM) qui est responsable de la politique de développement du numérique de la Nouvelle-Calédonie.
 
 ### Retrouvez le guide pratique pour dématérialiser vos démarches avec « Démarche numérique »
 
