@@ -6,33 +6,13 @@ description: "Cette page présente l'objectif de Démarches simplifiées\_: la d
 
 « Démarches simplifiées » permet de dématérialiser des démarches administratives grâce à un générateur de formulaires et une plateforme d'instruction de dossiers. Il s'agit d'une application en ligne prête à l'emploi développée, hébergée et maintenue par la direction du Numérique et de la modernisation (DINUM) qui est responsable de la politique de développement du numérique de la Nouvelle-Calédonie.
 
-### Retrouvez le guide pratique pour dématérialiser vos démarches avec « Démarche numérique »
-
-{% file src=".gitbook/assets/Guide des bonnes pratiques démarches-simplifiees.pdf" %}
-
-### Retrouvez le bilan d'utilisation de la plateforme de l'année 2025 !
-
-{% file src=".gitbook/assets/BilAN 2025 VOFF.pdf" %}
-
-### **Découvrez notre e-capsule de formation disponible sur Mentor en cliquant** [**ici** ](https://mentor.gouv.fr/course/view.php?id=4364\&section=1)
-
-<figure><img src=".gitbook/assets/tempsnip mentor .png" alt=""><figcaption><p>Parcours "numérique et relation aux usagers"</p></figcaption></figure>
-
-### Consultez notre démonstration en ligne pour découvrir notre outil en cliquant [**ici** ](https://webinaire.bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/8cf3381d925efe286faf2c37242cf916d6cf7e6a-1764853161456)
-
-Nous organisons, chaque premier jeudi du mois, des webinaires de présentation pour vous permettre de découvrir la plateforme, ses nouveautés et de poser toutes vos questions afin d’en optimiser l’utilisation.
-
-### Support de présentation :&#x20;
-
-{% file src=".gitbook/assets/Webinaire Démarche numérique avril 2026 v2.pdf" %}
+### Retrouvez la documentation de la version métropôlitaine [**ici** ](https://doc.demarches-simplifiees.fr/)
 
 ### Objectif
 
-L'objectif principal de cette documentation est de permettre aux organismes publics ayant des besoins de dématérialisation de déterminer si demarche.numerique.gouv.fr constitue une solution adaptée.
-
 L'ensemble des utilisateurs y trouvera des informations visant à faciliter la prise en main de l'application.
 
-La plateforme demarche.numerique.gouv.fr comporte quatre rôles :
+La plateforme demarches.simplifiees.gouv.nc comporte quatre rôles :
 
 * Administrateurs : création et publication des démarches
 * Usagers : dépôt et suivi des dossiers
@@ -45,4 +25,4 @@ Aucune connaissance spécifique en informatique n'est requise pour comprendre ce
 
 ### Retours
 
-Vous pouvez nous aider à améliorer cette documentation ainsi que l'outil en nous faisant part de vos remarques par [**e-mail.**](mailto:contact@demarches-simplifiees.fr)
+Vous pouvez nous aider à améliorer cette documentation ainsi que l'outil en nous faisant part de vos remarques par [**e-mail.**](mailto:contact-demarches@gouv.nc)
