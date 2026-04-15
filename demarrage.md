@@ -30,7 +30,7 @@ Pour les agents de la collectivité du GNC il faut un compte administrateur perm
 
 ### La dématérialisation... ce n'est pas prendre un formulaire papier et le mettre en ligne à l'identique.
 
-Voici quelques ressources pour vous aider:
+Voici quelques ressources métropolitaines pour vous aider:
 
 * [**Aller à l'essentiel**](https://www.modernisation.gouv.fr/outils-et-formations/simplifier-les-documents-administratifs#Essentiel)
 * [**Utiliser des mots simples**](https://www.modernisation.gouv.fr/outils-et-formations/simplifier-les-documents-administratifs#MotsSimples)
