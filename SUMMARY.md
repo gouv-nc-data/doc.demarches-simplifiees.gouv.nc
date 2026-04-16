@@ -80,4 +80,3 @@
   * [Eligibilité des dossiers](pour-aller-plus-loin/eligibilite-des-dossiers.md)
   * [Export personnalisé](pour-aller-plus-loin/export-personnalise.md)
   * [Expiration et suppression des dossiers](pour-aller-plus-loin/expiration-et-suppression-des-dossiers.md)
-* [Communiqués de presse](communiques-de-presse.md)
