@@ -60,7 +60,7 @@ La première phase d'adaptation de **demarche.numerique.gouv.fr** se situe au ni
 
 ## Suppression de la possibilité de changer l'adresse e-mail associée à son compte **demarche.numerique.gouv.fr**
 
-Pour des raisons de sécurité, toute personne disposant de droits instructeur ou administrateur ne peut plus changer l'adresse e-mail associée à son compte **demarche.numerique.gouv.fr**, comme elle pouvait le faire jusqu'ici. Il est dorénavant nécessaire de nous envoyer un mail à l'adresse contact@demarche.numerique.gouv.fr depuis votre ancienne adresse e-mail en indiquant bien la nouvelle adresse e-mail. La fonctionnalité reste disponible pour les personnes qui ne sont qu'usagers de **demarche.numerique.gouv.fr**.
+Pour des raisons de sécurité, toute personne disposant de droits instructeur ou administrateur ne peut plus changer l'adresse e-mail associée à son compte **demarche.numerique.gouv.fr**, comme elle pouvait le faire jusqu'ici. Il est dorénavant nécessaire de nous envoyer un mail à l'adresse contact-demarches@gouv.nc depuis votre ancienne adresse e-mail en indiquant bien la nouvelle adresse e-mail. La fonctionnalité reste disponible pour les personnes qui ne sont qu'usagers de **demarche.numerique.gouv.fr**.
 
 ## La fonction « Télécharger toutes les pièces jointes » inclut désormais les pièces jointes échangées dans la messagerie
 
@@ -108,7 +108,7 @@ Le libellé des colonnes est maintenant en français. L'export inclut les blocs 
 
 Dorénavant, vous pouvez télécharger toutes les pièces jointes contenues dans le dossier d'un seul clic ! Celles-ci sont téléchargées sous un format ZIP.
 
-## Changez l'adresse e-mail associée à votre compte **demarche.numerique.gouv.fr**
+## Changez l'adresse e-mail associée à votre compte **demarches simplifiées NC**
 
 ![](../.gitbook/assets/screely-1568035441437.png)
 
