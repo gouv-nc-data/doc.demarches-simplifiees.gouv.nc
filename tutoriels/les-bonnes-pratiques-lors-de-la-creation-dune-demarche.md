@@ -54,5 +54,5 @@ Par défaut, l'url de votre démarche est composé du titre de votre démarche. 
 
 ## 9. Prenez rendez-vous avec nous !
 
-Vous avez un doute sur un élément de votre démarche ? Vous voulez que nous relisions votre démarche pour être sûr qu'elle soit claire et efficace ? N'hésitez pas à nous contacter à l'adresse : contact@demarche.numerique.gouv.fr&#x20;
+Vous avez un doute sur un élément de votre démarche ? Vous voulez que nous relisions votre démarche pour être sûr qu'elle soit claire et efficace ? N'hésitez pas à nous contacter à l'adresse : contact-demarches@gouv.nc&#x20;
 
