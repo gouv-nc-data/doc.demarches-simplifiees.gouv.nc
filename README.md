@@ -4,7 +4,7 @@ description: "Cette page présente l'objectif de Démarches simplifiées\_: la d
 
 # Généralités
 
-« Démarches simplifiées » permet de dématérialiser des démarches administratives grâce à un générateur de formulaires et une plateforme d'instruction de dossiers. Il s'agit d'une application en ligne prête à l'emploi développée, hébergée et maintenue par la direction du Numérique et de la modernisation (DINUM) qui est responsable de la politique de développement du numérique de la Nouvelle-Calédonie.
+« Démarches simplifiées » permet de dématérialiser des démarches administratives grâce à un générateur de formulaires et une plateforme d'instruction de dossiers. Il s'agit d'une application en ligne prête à l'emploi, hébergée et maintenue par la direction du Numérique et de la modernisation (DINUM) qui est responsable de la politique de développement du numérique de la Nouvelle-Calédonie.
 
 ### Objectif
 
