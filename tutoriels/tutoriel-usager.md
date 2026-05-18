@@ -4,15 +4,15 @@ description: "Ce tutoriel présente les différentes fonctionnalités proposées
 
 # Tutoriel usager
 
-Ce tutoriel détaille les étapes de dépôt d'un dossier sur **demarche.numerique.gouv.fr** par un usager.
+Ce tutoriel détaille les étapes de dépôt d'un dossier sur **demarches-simplifiees.gouv.nc** par un usager.
 
 ## 1. Accéder à la procédure pour le dépôt d’un dossier sur démarche numérique
 
 ### **A. Accéder au lien vers la procédure**
 
-La page d'accueil de **demarche.numerique.gouv.fr** permet à l'usager de se connecter : elle ne permet pas de créer un compte, ni de rechercher une démarche.
+La page d'accueil de **demarches-simplifiees.gouv.nc** permet à l'usager de se connecter : elle ne permet pas de créer un compte, ni de rechercher une démarche.
 
-<figure><img src="../.gitbook/assets/tuto-usager-page-connexion.png" alt="Page de connexion demarche.numerique.gouv.fr"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tuto-usager-page-connexion.png" alt="Page de connexion demarches-simplifiees.gouv.nc"><figcaption></figcaption></figure>
 
 Afin d'accéder à une démarche, et subséquemment à la possibilité de créer un compte, **le service administratif compétent en charge de la démarche communique le lien vers celle-ci à ses administrés** : le lien peut être publié sur le site internet du service compétent, ou communiqué directement aux usagers par e-mail ou par le biais de flyers et autres moyens de communication. L'usager a besoin du lien de la démarche pour pouvoir déposer un dossier.
 
@@ -20,13 +20,13 @@ Ce lien renvoie vers une page de connexion Démarche numérique similaire à l'e
 
 <figure><img src="../.gitbook/assets/image (345).png" alt=""><figcaption></figcaption></figure>
 
-### **B. Se connecter à demarche.numerique.gouv.fr**
+### **B. Se connecter à demarches-simplifiees.gouv.nc**
 
 Il existe 3 cas de connexion pour accéder à la procédure sur **demarche.numerique.gouv.fr** :
 
-* **L’usager possède déjà un compte** sur **demarche.numerique.gouv.fr** : il doit cliquer sur « Se connecter » puis renseigner l'e-mail et le mot de passe de connexion
-* **L’usager ne possède pas de compte** et souhaite se connecter pour la première fois : il doit cliquer sur le lien de la démarche (qu'il trouvera sur le site de l'administration), puis, entrer un e-mail, choisir un mot de passe et cliquer sur « se connecter ». En cas de doute, rendez vous sur cette [page](https://www.demarches-simplifiees.fr/users/sign_up)
-* **L’usager possède un compte France Connect** : il faut cliquer sur le bouton « France Connect », puis choisir un compte de connexion en cliquant sur un des boutons (La Poste, Ameli, etc.), entrer les identifiants liés au compte sélectionné. La redirection vers **demarche.numerique.gouv.fr** est automatique.
+* **L’usager possède déjà un compte** sur **demarches-simplifiees.gouv.nc** : il doit cliquer sur « Se connecter » puis renseigner l'e-mail et le mot de passe de connexion
+* **L’usager ne possède pas de compte** et souhaite se connecter pour la première fois : il doit cliquer sur le lien de la démarche (qu'il trouvera sur le site de l'administration), puis, entrer un e-mail, choisir un mot de passe et cliquer sur « se connecter ». 
+* **L’usager possède un compte NC Connect** : il faut cliquer sur le bouton « NC Connect », puis choisir un compte de connexion en cliquant sur un des boutons (La Poste, Ameli, etc.), entrer les identifiants liés au compte sélectionné. La redirection vers **demarches-simplifiees.gouv.nc** est automatique.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.25.14.png" alt=""><figcaption><p>Connexion avec France Connect</p></figcaption></figure>
 
