@@ -1,4 +1,4 @@
-# Intégration du bouton « Mon avis »
+# Intégration du bouton « Mon avis » version métropolitaine
 
 **L’outil « Jedonnemonavis» est conçu pour rendre très simple l’intégration du bouton de vote à la fin des démarches administratives. Voici le mode opératoire qui est proposé pour intégrer le lien « Jedonnemonavis » dans une démarche sur demarche.numerique.gouv.fr.**
 
