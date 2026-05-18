@@ -4,17 +4,10 @@ description: Comment créer sa démarche sur demarche.numerique.gouv.fr ? versio
 
 # Tutoriel administrateur
 
-Ce tutoriel présente les étapes de création d’une démarche sur **demarche.numerique.gouv.fr** par un administrateur.
+Ce tutoriel présente les étapes de création d’une démarche par un administrateur.
+Vous avez  la possibilité de nous contacter à l'adresse : **contact-demarches@gouv.nc**
 
-Vous avez des questions ? Vous pouvez nous contacter à tout moment depuis votre interface administrateur grâce au Chat situé en bas à droite de la page :&#x20;
 
-<figure><img src="../.gitbook/assets/image (33).png" alt="" width="325"><figcaption></figcaption></figure>
-
-Vous avez également la possibilité de nous contacter à l'adresse : **contact@demarche.numerique.gouv.fr**
-
-{% hint style="info" %}
-**ATTENTION** : nous apportons continuellement des améliorations à **demarche.numerique.gouv.fr**&#x20;
-{% endhint %}
 
 \
 **Qu’est-ce qu’un administrateur ?**&#x20;
@@ -23,11 +16,7 @@ Un administrateur est en charge de la construction du formulaire et de la gestio
 
 ## 1. Création d’un compte administrateur
 
-**Rendez-vous sur la page :** [**https://demarche.numerique.gouv.fr/commencer/inscription-admin-demarche-numerique**](https://demarche.numerique.gouv.fr/commencer/inscription-admin-demarche-numerique)
-
-<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption><p>Formulaire d'ouverture de compte administrateur </p></figcaption></figure>
-
-Les comptes administrateurs sont les seuls comptes que l'équipe **demarche.numerique.gouv.fr** instruit. En effet, ils sont uniquement réservés aux agents publics.&#x20;
+Envoyer une demande par mail à contact-demarches@gouv.nc
 
 Une fois votre demande acceptée, vous recevrez un e-mail vous invitant à créer votre mot de passe. Pour des raisons de sécurité, celui-ci doit atteindre une certaine complexité. En effet, il doit contenir au minimum 8 caractères.
 
@@ -37,11 +26,8 @@ Attention : tous les 30 jours, une nouvelle fois pour des raisons de sécurité,
 
 ## 2. Se connecter à **demarche.numerique.gouv.fr**&#x20;
 
-[Rendez-vous sur la page d’accueil](https://www.demarches-simplifiees.fr/) et cliquez sur le bouton connexion en haut à droite. Vous arrivez alors sur la page de connexion. Rentrez l’e-mail lié au compte **demarche.numerique.gouv.fr** et le mot de passe indiqué lors de la création de votre compte.
+[Rendez-vous sur la page d’accueil](https://demarches-simplifiees.gouv.nc/agent_connect)) et cliquez sur le bouton connexion. Vous arrivez alors sur la page de connexion. Rentrez l’e-mail lié au compte et le mot de passe indiqué lors de la création de votre compte.
 
-Vous avez également la possibilité de vous connecter via "ProConnect" avec la double authentification. Les usagers ont également la possibilité de se connecter via "France connect". &#x20;
-
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-17 à 16.37.08.png" alt=""><figcaption></figcaption></figure>
 
 ## 3. Découvrir son tableau de bord des démarches créées
 
@@ -68,7 +54,7 @@ Ainsi,  pour consulter les informations (administrateur et date de création) su
 
 ## 5. Découvrir les nouveautés&#x20;
 
-Vous retrouverez sur cette page les principales nouveautés, corrections de bugs, ou autre actualités à propos de **demarche.numerique.gouv.fr**. Une petite pastille s'affichera à côté du bouton  « _Nouveautés_ »  lorsqu'il y a du nouveau qui peut vous intéresser sur cette page.
+Vous retrouverez sur cette page les principales nouveautés, corrections de bugs, ou autre actualités à propos de DS. Une petite pastille s'affichera à côté du bouton  « _Nouveautés_ »  lorsqu'il y a du nouveau qui peut vous intéresser sur cette page.
 
 <figure><img src="../.gitbook/assets/Sans titre 2.png" alt=""><figcaption></figcaption></figure>
 
