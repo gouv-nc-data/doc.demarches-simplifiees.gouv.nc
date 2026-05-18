@@ -32,7 +32,7 @@ Un bloc répétable sur un champ permet à ce dernier d'être répété autant d
 
 ![](<../.gitbook/assets/Screenshot 2019-08-01 at 15.41.04.png>)
 
-Afin de simplifier vos formulaires, vous pouvez également activer des logiques conditionnelles. Cela permettra de guider vos usagers vers les champs dédiées à leur situations en fonction de leur réponses aux champs du formulaire. Les formulaires sont donc plus précis et il s'agit d'un gain de temps pour l'usager. Pour plus d'information : [https://doc.demarche.numerique.gouv.fr/pour-aller-plus-loin/le-conditionnel](https://doc.demarche.numerique.gouv.fr/pour-aller-plus-loin/le-conditionnel)
+Afin de simplifier vos formulaires, vous pouvez également activer des logiques conditionnelles. Cela permettra de guider vos usagers vers les champs dédiées à leur situations en fonction de leur réponses aux champs du formulaire. Les formulaires sont donc plus précis et il s'agit d'un gain de temps pour l'usager. Pour plus d'information : [https://gouv-nc.gitbook.io/doc.demarches-simplifiees.gouv.nc/pour-aller-plus-loin/le-conditionnel]
 
 <figure><img src="../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
 
