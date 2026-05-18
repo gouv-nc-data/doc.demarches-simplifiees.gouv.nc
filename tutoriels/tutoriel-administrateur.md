@@ -20,9 +20,7 @@ Envoyer une demande par mail à contact-demarches@gouv.nc
 
 Une fois votre demande acceptée, vous recevrez un e-mail vous invitant à créer votre mot de passe. Pour des raisons de sécurité, celui-ci doit atteindre une certaine complexité. En effet, il doit contenir au minimum 8 caractères.
 
-{% hint style="info" %}
 Attention : tous les 30 jours, une nouvelle fois pour des raisons de sécurité,  nous vous enverrons un mail vous demandant de vérifier votre compte. Il suffit alors de cliquer sur le lien contenu dans l'e-mail envoyé automatiquement par nos services.
-{% endhint %}
 
 ## 2. Se connecter à **demarche.numerique.gouv.fr**&#x20;
 
