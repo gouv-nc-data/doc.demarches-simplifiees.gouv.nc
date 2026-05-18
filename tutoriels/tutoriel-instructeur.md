@@ -1,10 +1,10 @@
 ---
-description: Comment instruire un dossier sur demarche.numerique.gouv.fr ?
+description: Comment instruire un dossier sur demarches-simplifiees.gouv.nc ?
 ---
 
 # Tutoriel instructeur
 
-Ce tutoriel détaille les étapes d’instruction d'un dossier sur **demarche.numerique.gouv.fr** par un instructeur.
+Ce tutoriel détaille les étapes d’instruction d'un dossier sur **demarches-simplifiees.gouv.nc** par un instructeur.
 
 **Télécharger la version papier du tutoriel**
 
@@ -18,7 +18,7 @@ Un instructeur est une personne nommée par un administrateur afin de prendre en
 
 L'instructeur a accès au contenu des dossiers de la démarche sur laquelle il a été nommé (champs renseignés, pièces justificatives, messagerie). Il dispose des droits pour statuer sur le dossier (acceptation, classement sans suite, refus) et peut inviter un tiers à consulter un dossier afin d'émettre un avis sur celui-ci si l'administrateur de la démarche le permet.&#x20;
 
-## 1. Se connecter à **demarche.numerique.gouv.fr**
+## 1. Se connecter à **demarches-simplifiees.gouv.nc**
 
 * **Réception du message d’invitation à devenir instructeur sur une procédure :**&#x20;
 
@@ -33,7 +33,7 @@ Puis, l'instructeur est renvoyé vers la page qui lui permet de créer son compt
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-Cette page permet à l'instructeur de définir le mot de passe qui sera associé à son compte, et qu'il utilisera ultérieurement pour se connecter à **demarche.numerique.gouv.fr**.\
+Cette page permet à l'instructeur de définir le mot de passe qui sera associé à son compte, et qu'il utilisera ultérieurement pour se connecter à **demarches-simplifiees.gouv.nc**.\
 \
 Si vous avez déja un compte Pro connect, vous pouvez également passer par ce biais pour vous connecter à Démarche numérique.&#x20;
 
