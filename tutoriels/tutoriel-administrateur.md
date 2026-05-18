@@ -1,5 +1,5 @@
 ---
-description: Comment créer sa démarche sur demarche.numerique.gouv.fr ?
+description: Comment créer sa démarche sur demarche.numerique.gouv.fr ? version métropolitaine
 ---
 
 # Tutoriel administrateur
