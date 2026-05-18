@@ -1,4 +1,4 @@
-# Vidéo : la sécurité de demarche.numerique.gouv.fr
+# Vidéo : la sécurité 
 
 {% embed url="https://vimeo.com/333749617" %}
 2 minutes
@@ -6,7 +6,7 @@
 
 Bonjour à tous,<br>
 
-Dans cette vidéo nous abordons les aspects de sécurité de la plateforme demarche.numerique.gouv.fr : l’hébergement des données et RGS.<br>
+Dans cette vidéo nous abordons les aspects de sécurité de la plateforme demarche.numerique.gouv.fr métropolitaine : l’hébergement des données et RGS.<br>
 
 Le premier aspect est l’hébergement :
 
