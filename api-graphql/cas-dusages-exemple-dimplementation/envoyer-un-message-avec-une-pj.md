@@ -41,7 +41,7 @@ require 'uri'
 require 'json'
 require 'byebug'
 require 'digest'
-ENDPOINT = URI('https://demarche.numerique.gouv.fr/api/v2/graphql')
+ENDPOINT = URI('https://demarches-simplifiees.gouv.nc/api/v2/graphql')
 
 QUERY_UPLOAD_REQUEST = "
 mutation createDirectUpload($input: CreateDirectUploadInput!) {
@@ -178,7 +178,7 @@ require 'net/http'
 require 'uri'
 require 'json'
 require 'byebug'
-ENDPOINT = URI('https://demarche.numerique.gouv.fr/api/v2/graphql')
+ENDPOINT = URI('https://demarches-simplifiees.gouv.nc/api/v2/graphql')
 QUERY = "
 mutation dossierEnvoyerMessage($input: DossierEnvoyerMessageInput!) {
   dossierEnvoyerMessage(input: $input) {

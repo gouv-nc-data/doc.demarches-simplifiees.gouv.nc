@@ -14,7 +14,7 @@ Chaque démarche publiée a un unique point d’accès pour l’usager : son lie
 
 Un deuxième moyen peut-être de faire une campagne d’e-mails dans lesquels vous communiquez ce lien aux personnes concernées par cette démarche.
 
-Enfin, avertissez le standard pour qu’il oriente bien vers votre page et votre lien et non pas directement vers **demarche.numerique.gouv.fr**
+Enfin, avertissez le standard pour qu’il oriente bien vers votre page et votre lien et non pas directement vers **demarches-simplifiees.gouv.nc**
 
 Dernière chose, testez qu’en cliquant dessus votre lien dirige bien vers votre démarche.<br>
 

@@ -1,7 +1,7 @@
 ---
 description: >-
   Vous travaillez pour un organisme public et souhaitez découvrir les
-  fonctionnalités de demarche.numerique.gouv.fr ? Participez à nos formations en
+  fonctionnalités de demarches-simplifiees.gouv.nc ? Participez à nos formations en
   ligne et en direct.
 ---
 

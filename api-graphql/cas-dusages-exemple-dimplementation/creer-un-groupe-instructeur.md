@@ -9,12 +9,12 @@ description: >-
 Lorsque vous gérez une démarche avec plusieurs services ou équipes, vous pouvez créer des groupes d'instructeurs pour organiser le traitement des dossiers. Cette mutation permet de créer un nouveau groupe et d'y affecter des instructeurs dès sa création.
 
 {% hint style="info" %}
-Le numéro de la démarche est celui visible dans l'URL de la démarche : `https://demarche.numerique.gouv.fr/administrateurs/procedures/{numero}`
+Le numéro de la démarche est celui visible dans l'URL de la démarche : `https://demarches-simplifiees.gouv.nc/administrateurs/procedures/{numero}`
 {% endhint %}
 
 Vous pouvez tester en executant le script suivant avec les variables d'environnement adaptées :
 
-<pre class="language-bash"><code class="lang-bash"><strong>API_TOKEN="votre_token" DEMARCHE_NUMBER="numero_de_la_demarche" GROUPE_LABEL="Nom du groupe" INSTRUCTEUR_EMAIL="email@instructeur.fr" ruby creerGroupeInstructeur.rb
+<pre class="language-bash"><code class="lang-bash"><strong>API_TOKEN="votre_token" DEMARCHE_NUMBER="numero_de_la_demarche" GROUPE_LABEL="Nom du groupe" INSTRUCTEUR_EMAIL="prenom.nom@gouv.nc" ruby creerGroupeInstructeur.rb
 </strong></code></pre>
 
 {% code title="creerGroupeInstructeur.rb" %}
@@ -24,7 +24,7 @@ Vous pouvez tester en executant le script suivant avec les variables d'environne
 require 'net/http'
 require 'uri'
 require 'json'
-ENDPOINT = URI('https://demarche.numerique.gouv.fr/api/v2/graphql')
+ENDPOINT = URI('https://demarches-simplifiees.gouv.nc/api/v2/graphql')
 
 ### that's the GraphQL part.
 QUERY = <<~GRAPHQL_QUERY

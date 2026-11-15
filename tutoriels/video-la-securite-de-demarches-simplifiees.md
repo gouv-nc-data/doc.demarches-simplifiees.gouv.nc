@@ -20,7 +20,7 @@ Parmi ces serveurs, deux d’entre eux sont dédiés à l’application et deux 
 
 Ces serveurs communiquent au travers de lignes dédiées c’est à dire que la communication ne passe pas par internet ce qui est gage de sécurité.<br>
 
-La disponibilité de l’application est monitorée en continu avec des sondes évaluant les serveurs, le stockage, les logiciels, les droits utilisateurs, la connexion internet et les connexions serveurs. La disponibilité constatée est publique et affichée à l’url suivante : [https://status.demarche.numerique.gouv.fr/](https://status.demarche.numerique.gouv.fr/).<br>
+La disponibilité de l’application est monitorée en continu avec des sondes évaluant les serveurs, le stockage, les logiciels, les droits utilisateurs, la connexion internet et les connexions serveurs. La disponibilité constatée est publique et affichée à l’url suivante : [https://status.demarche.numerique.gouv.fr/](https://status.demarche.numerique.gouv.fr/) _(version nationale : pas d'équivalent en Nouvelle-Calédonie)_.<br>
 
 Le deuxième aspect est le Référentiel général de sécurité (RGS):
 
