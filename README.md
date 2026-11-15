@@ -10,7 +10,7 @@ description: "Cette page présente l'objectif de Démarches simplifiées\_: la d
 
 L'ensemble des utilisateurs y trouvera des informations visant à faciliter la prise en main de l'application.
 
-La plateforme demarches.simplifiees.gouv.nc comporte quatre rôles :
+La plateforme demarches-simplifiees.gouv.nc comporte quatre rôles :
 
 * Administrateurs : création et publication des démarches
 * Usagers : dépôt et suivi des dossiers

@@ -3,6 +3,7 @@ description: >-
   Retrouvez dans cette page les démarches déployées dans les services
   déconcentrés de l'Etat ou au niveau national relatives aux procédures liées au
   permis de conduire
+hidden: true
 ---
 
 # Démarches relatives au permis de conduire

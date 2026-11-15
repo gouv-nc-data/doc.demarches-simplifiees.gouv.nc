@@ -10,7 +10,7 @@ Vous disposez de données sur vos usager·ères et vous souhaitez les utiliser p
 
 ## Présentation
 
-**demarche.numerique.gouv.fr** propose une **API de préremplissage.** Pour une démarche donnée, elle permet de préremplir un dossier, avec les données dont vous disposez déjà.
+**demarches-simplifiees.gouv.nc** propose une **API de préremplissage.** Pour une démarche donnée, elle permet de préremplir un dossier, avec les données dont vous disposez déjà.
 
 {% hint style="info" %}
 Pour accéder à cette fonctionnalité, la démarche doit :&#x20;
@@ -43,7 +43,7 @@ L'URL prend la forme suivante :&#x20;
 
 {% code overflow="wrap" %}
 ```
-https://demarche.numerique.gouv.fr/commencer/<nom-demarche>?<cle1>=<valeur1>&<cle2>=<valeur2>
+https://demarches-simplifiees.gouv.nc/commencer/<nom-demarche>?<cle1>=<valeur1>&<cle2>=<valeur2>
 ```
 {% endcode %}
 
@@ -65,7 +65,7 @@ Il est ensuite nécessaire d'indiquer :&#x20;
 Une requête complète prend donc la forme suivante :&#x20;
 
 ```shell
-curl --request POST 'https://demarche.numerique.gouv.fr/api/public/v1/demarches/<id>/dossiers' \
+curl --request POST 'https://demarches-simplifiees.gouv.nc/api/public/v1/demarches/<id>/dossiers' \
      --header 'Content-Type: application/json' \
      --data '{"cle1": "valeur1", "cle2": "valeur2"}'
 ```
@@ -78,7 +78,7 @@ La réponse prend la forme suivante :&#x20;
 
 ```json
 {
-  "dossier_url": "https://demarche.numerique.gouv.fr/commencer/<nom-demarche>?prefill_token=<token de préremplissage>",
+  "dossier_url": "https://demarches-simplifiees.gouv.nc/commencer/<nom-demarche>?prefill_token=<token de préremplissage>",
   "dossier_id": "<ID du dossier en base 64>",
   "dossier_number": <ID du dossier en tant qu'entier>
 }
@@ -88,15 +88,15 @@ Au moment de la réponse, le dossier est orphelin. Il est rattaché à l'usager�
 
 ## Environnement
 
-**demarche.numerique.gouv.fr** ne propose pas d'environnement de test, intégration, préproduction ou sandbox, sur lequel réaliser votre intégration.
+**demarches-simplifiees.gouv.nc** ne propose pas d'environnement de test, intégration, préproduction ou sandbox, sur lequel réaliser votre intégration.
 
-À la place, vous pouvez travailler sans risque directement sur la production (https://**demarche.numerique.gouv.fr)**. En effet, au cours de l'intégration, vous allez créer des dossiers en brouillon, et ceux-ci :&#x20;
+À la place, vous pouvez travailler sans risque directement sur la production (https://**demarches-simplifiees.gouv.nc)**. En effet, au cours de l'intégration, vous allez créer des dossiers en brouillon, et ceux-ci :&#x20;
 
 * **sont supprimés** périodiquement,
 * **ne sont pas soumis à l'administration** tant qu'ils ne sont pas récupérés, complétés et déposés par un·e usager·ère,
 * **sont invisibles** pour l'administration concernée tant qu'ils ne sont pas soumis.
 
-Si vous le souhaitez, vous pouvez également prendre possession de ces dossiers en vous authentifiant, comme le ferait l'usager·ère, afin de les supprimer manuellement depuis la page [https://demarche.numerique.gouv.fr/dossiers](https://demarche.numerique.gouv.fr/dossiers).
+Si vous le souhaitez, vous pouvez également prendre possession de ces dossiers en vous authentifiant, comme le ferait l'usager·ère, afin de les supprimer manuellement depuis la page [https://demarches-simplifiees.gouv.nc/dossiers](https://demarches-simplifiees.gouv.nc/dossiers).
 
 ## Démarrage rapide
 
@@ -105,7 +105,7 @@ Vous connaissez le nom de la démarche ? Alors rendez-vous directement sur la pa
 Par exemple, si votre démarche est `une-demarche-a-preremplir`, alors ouvrez la page :&#x20;
 
 {% hint style="success" %}
-[https://demarche.numerique.gouv.fr/preremplir/une-demarche-a-preremplir](https://demarche.numerique.gouv.fr/preremplir/une-demarche-a-preremplir)
+[https://demarches-simplifiees.gouv.nc/preremplir/une-demarche-a-preremplir](https://demarches-simplifiees.gouv.nc/preremplir/une-demarche-a-preremplir)
 {% endhint %}
 
 Vous y trouverez :&#x20;
@@ -123,7 +123,7 @@ Un point de terminaison vous donnant accès à une description en JSON du schém
 Par exemple, si votre démarche est `une-demarche-a-preremplir`, la requête doit être adressée à :&#x20;
 
 {% hint style="success" %}
-[https://demarche.numerique.gouv.fr/preremplir/une-demarche-a-preremplir/schema](https://demarche.numerique.gouv.fr/preremplir/une-demarche-a-preremplir/schema)
+[https://demarches-simplifiees.gouv.nc/preremplir/une-demarche-a-preremplir/schema](https://demarches-simplifiees.gouv.nc/preremplir/une-demarche-a-preremplir/schema)
 {% endhint %}
 
 L'API répond en JSON. La réponse contient des informations génériques sur la démarche ainsi que l’identifiant stable, le titre, la description de chaque champ de la démarche. Elle indique aussi les champs requis ou non.

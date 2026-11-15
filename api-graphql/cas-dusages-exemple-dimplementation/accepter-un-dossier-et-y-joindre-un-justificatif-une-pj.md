@@ -41,7 +41,7 @@ require 'uri'
 require 'json'
 require 'byebug'
 require 'digest'
-ENDPOINT = URI('https://demarche.numerique.gouv.fr/api/v2/graphql')
+ENDPOINT = URI('https://demarches-simplifiees.gouv.nc/api/v2/graphql')
 
 QUERY_UPLOAD_REQUEST = "
 mutation createDirectUpload($input: CreateDirectUploadInput!) {
@@ -176,7 +176,7 @@ SIGNED_BLOB_ID="Le signed blob id de la 1ere requete" API_TOKEN="votre token d'a
 require 'net/http'
 require 'uri'
 require 'json'
-ENDPOINT = URI('https://demarche.numerique.gouv.fr/api/v2/graphql')
+ENDPOINT = URI('https://demarches-simplifiees.gouv.nc/api/v2/graphql')
 
 QUERY = "
 mutation dossierAccepter($input: DossierAccepterInput!) {
