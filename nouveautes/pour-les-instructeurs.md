@@ -1,12 +1,12 @@
 ---
 description: >-
   Retrouvez ici toutes les nouveautés développées pour les instructeurs de
-  demarche.numerique.gouv.fr
+  demarches-simplifiees.gouv.nc
 ---
 
 # Pour les instructeurs
 
-### Retrouvez toutes les nouveautés et l'actualité **demarche.numerique.gouv.fr** depuis l'onglet "nouveautés" de votre compte :
+### Retrouvez toutes les nouveautés et l'actualité **demarches-simplifiees.gouv.nc** depuis l'onglet "nouveautés" de votre compte :
 
 <figure><img src="../.gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure>
 
@@ -50,17 +50,17 @@ En tant qu'instructeur d'une démarche, vous pouvez désormais nommer d'autres i
 
 Après avoir cliqué sur le bouton « instructeurs », vous pourrez ajouter l'adresse e-mail des nouveaux instructeurs selon le même principe que l'affectation d'instructeurs par l'administrateur de la démarche.&#x20;
 
-Pour plus d'informations concernant l'ajout d'instructeurs, nous vous invitons à cliquer [ici.](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-administrateur#11.-nommer-des-instructeurs)&#x20;
+Pour plus d'informations concernant l'ajout d'instructeurs, nous vous invitons à cliquer [ici.](https://gouv-nc.gitbook.io/doc.demarches-simplifiees.gouv.nc/tutoriels/tutoriel-administrateur#11.-nommer-des-instructeurs)&#x20;
 
 ## Changement de couleurs&#x20;
 
-Afin de permettre aux citoyens de bénéficier d'une cohérence graphique et d'une meilleure expérience à travers l'ensemble des sites de l'État, le site **demarche.numerique.gouv.fr** s'adapte progressivement au Système de Design de l'état.\
+Afin de permettre aux citoyens de bénéficier d'une cohérence graphique et d'une meilleure expérience à travers l'ensemble des sites de l'État, le site **demarches-simplifiees.gouv.nc** s'adapte progressivement au Système de Design de l'état.\
 \
-La première phase d'adaptation de **demarche.numerique.gouv.fr** se situe au niveau des couleurs et dans les prochains mois d'autres changements seront visibles au niveau des composants et icônes.
+La première phase d'adaptation de **demarches-simplifiees.gouv.nc** se situe au niveau des couleurs et dans les prochains mois d'autres changements seront visibles au niveau des composants et icônes.
 
-## Suppression de la possibilité de changer l'adresse e-mail associée à son compte **demarche.numerique.gouv.fr**
+## Suppression de la possibilité de changer l'adresse e-mail associée à son compte **demarches-simplifiees.gouv.nc**
 
-Pour des raisons de sécurité, toute personne disposant de droits instructeur ou administrateur ne peut plus changer l'adresse e-mail associée à son compte **demarche.numerique.gouv.fr**, comme elle pouvait le faire jusqu'ici. Il est dorénavant nécessaire de nous envoyer un mail à l'adresse contact-demarches@gouv.nc depuis votre ancienne adresse e-mail en indiquant bien la nouvelle adresse e-mail. La fonctionnalité reste disponible pour les personnes qui ne sont qu'usagers de **demarche.numerique.gouv.fr**.
+Pour des raisons de sécurité, toute personne disposant de droits instructeur ou administrateur ne peut plus changer l'adresse e-mail associée à son compte **demarches-simplifiees.gouv.nc**, comme elle pouvait le faire jusqu'ici. Il est dorénavant nécessaire de nous envoyer un mail à l'adresse contact-demarches@gouv.nc depuis votre ancienne adresse e-mail en indiquant bien la nouvelle adresse e-mail. La fonctionnalité reste disponible pour les personnes qui ne sont qu'usagers de **demarches-simplifiees.gouv.nc**.
 
 ## La fonction « Télécharger toutes les pièces jointes » inclut désormais les pièces jointes échangées dans la messagerie
 
@@ -88,7 +88,7 @@ Certaines démarches étaient devenues trop lourdes pour permettre un téléchar
 
 ## Les instructeurs peuvent repasser des dossiers acceptés en instruction
 
-Vous avez accepté un dossier par erreur ? Pas de panique : vous pouvez désormais le repasser en instruction ! Il suffit pour cela de cliquer sur le bouton « Accepté » puis « Repasser en instruction ». Plus d'informations [en cliquant ici.](https://faq.demarches-simplifiees.fr/article/57-repasser-un-dossier-en-instruction)
+Vous avez accepté un dossier par erreur ? Pas de panique : vous pouvez désormais le repasser en instruction ! Il suffit pour cela de cliquer sur le bouton « Accepté » puis « Repasser en instruction ». Plus d'informations [en cliquant ici.](https://faq.demarches-simplifiees.fr/article/57-repasser-un-dossier-en-instruction) _(version nationale : pas d'équivalent en Nouvelle-Calédonie)_
 
 ## **Statistiques de traitement d'une démarche**
 
@@ -112,7 +112,7 @@ Dorénavant, vous pouvez télécharger toutes les pièces jointes contenues dans
 
 ![](../.gitbook/assets/screely-1568035441437.png)
 
-Vous pouvez désormais facilement modifier l'adresse e-mail associée à votre compte **demarche.numerique.gouv.fr**. Plus d'informations ici :&#x20;
+Vous pouvez désormais facilement modifier l'adresse e-mail associée à votre compte **demarches-simplifiees.gouv.nc**. Plus d'informations ici :&#x20;
 
 {% embed url="https://www.demarches-simplifiees.fr/faq/usager/je-veux-changer-mon-adresse-email" %}
 
@@ -127,5 +127,5 @@ Un usager a transmis une mauvaise information ? Pas de panique : vous pouvez dé
 \
 Plus d'informations ici :&#x20;
 
-[https://demarche.numerique.gouv.fr/faq/instructeur/comment-repasser-un-dossier-en-instruction](https://demarche.numerique.gouv.fr/faq/instructeur/comment-repasser-un-dossier-en-instruction)
+[https://demarche.numerique.gouv.fr/faq/instructeur/comment-repasser-un-dossier-en-instruction](https://demarche.numerique.gouv.fr/faq/instructeur/comment-repasser-un-dossier-en-instruction) _(version nationale : pas d'équivalent en Nouvelle-Calédonie)_
 

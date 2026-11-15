@@ -53,7 +53,7 @@ Ensuite, vous pouvez executer ce code ruby
 require 'net/http'
 require 'uri'
 require 'json'
-ENDPOINT = URI('https://demarche.numerique.gouv.fr/api/v2/graphql')
+ENDPOINT = URI('https://demarches-simplifiees.gouv.nc/api/v2/graphql')
 
 ### that's the GraphQL part.
 # We store the query in a flat file because it's easier to read

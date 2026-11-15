@@ -13,7 +13,7 @@ Pour cela, dans l'interface instructeur, cliquer sur la procédure concernée pu
 Une liste déroulante avec les différents formats s'affichera alors avec deux options de téléchargement :&#x20;
 
 * standard
-* A partir d'un modèle ( vous permettant de sélectionner les informations que vous souhaitez exporter) Vous retrouverez plus d'informations concernant l'export personnalisé en cliquant[ ici. ](https://doc.demarches-simplifiees.fr/pour-aller-plus-loin/export-personnalise)
+* A partir d'un modèle ( vous permettant de sélectionner les informations que vous souhaitez exporter) Vous retrouverez plus d'informations concernant l'export personnalisé en cliquant[ ici. ](https://gouv-nc.gitbook.io/doc.demarches-simplifiees.gouv.nc/pour-aller-plus-loin/export-personnalise)
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -66,8 +66,8 @@ Voir la page [exports et macros](exports-et-macros.md)
 
 ## Export par API
 
-**demarche.numerique.gouv.fr** est fourni avec une API qui permet d'exporter de manière automatique la _totalité_ des informations relatives aux dossiers déposés sur une procédure donnée.
+**demarches-simplifiees.gouv.nc** est fourni avec une API qui permet d'exporter de manière automatique la _totalité_ des informations relatives aux dossiers déposés sur une procédure donnée.
 
 Cette API ne permet en revanche pas d'entrer des données dans l'application ou de commander des opérations.
 
-Pour plus d'information, vous pouvez consulter [la documentation dédiée à l'API](https://doc.demarches-simplifiees.fr/api-graphql)&#x20;
+Pour plus d'information, vous pouvez consulter [la documentation dédiée à l'API](https://gouv-nc.gitbook.io/doc.demarches-simplifiees.gouv.nc/api-graphql)&#x20;
