@@ -1,12 +1,12 @@
 ---
-description: "Ce tutoriel présente les différentes fonctionnalités proposées aux usagers pour effectuer une démarche avec «\_Démarche numérique\""
+description: "Ce tutoriel présente les différentes fonctionnalités proposées aux usagers pour effectuer une démarche avec «\_Démarches simplifiées\_»"
 ---
 
 # Tutoriel usager
 
 Ce tutoriel détaille les étapes de dépôt d'un dossier sur **demarches-simplifiees.gouv.nc** par un usager.
 
-## 1. Accéder à la procédure pour le dépôt d’un dossier sur démarche numérique
+## 1. Accéder à la procédure pour le dépôt d’un dossier sur Démarches simplifiées
 
 ### **A. Accéder au lien vers la procédure**
 
@@ -16,19 +16,19 @@ La page d'accueil de **demarches-simplifiees.gouv.nc** permet à l'usager de se 
 
 Afin d'accéder à une démarche, et subséquemment à la possibilité de créer un compte, **le service administratif compétent en charge de la démarche communique le lien vers celle-ci à ses administrés** : le lien peut être publié sur le site internet du service compétent, ou communiqué directement aux usagers par e-mail ou par le biais de flyers et autres moyens de communication. L'usager a besoin du lien de la démarche pour pouvoir déposer un dossier.
 
-Ce lien renvoie vers une page de connexion Démarche numérique similaire à l'exemple ci-dessous :
+Ce lien renvoie vers une page de connexion Démarches simplifiées similaire à l'exemple ci-dessous :
 
 <figure><img src="../.gitbook/assets/image (345).png" alt=""><figcaption></figcaption></figure>
 
 ### **B. Se connecter à demarches-simplifiees.gouv.nc**
 
-Il existe 3 cas de connexion pour accéder à la procédure sur **demarche.numerique.gouv.fr** :
+Il existe 3 cas de connexion pour accéder à la procédure sur **demarches-simplifiees.gouv.nc** :
 
 * **L’usager possède déjà un compte** sur **demarches-simplifiees.gouv.nc** : il doit cliquer sur « Se connecter » puis renseigner l'e-mail et le mot de passe de connexion
 * **L’usager ne possède pas de compte** et souhaite se connecter pour la première fois : il doit cliquer sur le lien de la démarche (qu'il trouvera sur le site de l'administration), puis, entrer un e-mail, choisir un mot de passe et cliquer sur « se connecter ». 
-* **L’usager possède un compte NC Connect** : il faut cliquer sur le bouton « NC Connect », puis choisir un compte de connexion en cliquant sur un des boutons (La Poste, Ameli, etc.), entrer les identifiants liés au compte sélectionné. La redirection vers **demarches-simplifiees.gouv.nc** est automatique.
+* **L’usager possède un compte NC Connect** : il faut cliquer sur le bouton « NC Connect », puis saisir ses identifiants NC Connect. La redirection vers **demarches-simplifiees.gouv.nc** est automatique.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.25.14.png" alt=""><figcaption><p>Connexion avec France Connect</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.25.14.png" alt=""><figcaption><p>Connexion avec NC Connect</p></figcaption></figure>
 
 S'il s'agit d'une première inscription, **un lien vous sera envoyé par e-mail afin de confirmer la création du compte**. Veillez à consulter les courriers indésirables, spams ou e-mails promotionnels vers lesquels l'e-mail de validation peut être redirigé automatiquement.
 
@@ -40,18 +40,18 @@ Par ailleurs, si vous ne recevez pas cet e-mail assurez-vous de ne pas utiliser 
 
 Le formulaire peut viser deux types d'usagers :
 
-* Une entreprise ou organisme possédant un numéro SIRET
+* Une entreprise ou organisme possédant un numéro RIDET
 * Une personne physique
 
-**En tant qu'entreprise ou organisme possédant un numéro SIRET :**
+**En tant qu'entreprise ou organisme possédant un numéro RIDET :**
 
-La première information demandée est le numéro SIRET permettant de récupérer des informations juridiques et financières auprès de l'INSEE et d'Infogreffe grâce à l'API entreprise. Si vous ne connaissez pas le SIRET de votre administration, vous pouvez cliquer sur le lien de l'annuaire entreprises pour retrouver cette information.
+La première information demandée est le numéro RIDET de l'entreprise ou de l'organisme, attribué par l'ISEE. La récupération automatique des informations de l'entreprise (API Entreprise) est en cours de mise en place en Nouvelle-Calédonie pour une utilisation sous Démarches simplifiées.
 
 <figure><img src="../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Capture 23.PNG" alt=""><figcaption></figcaption></figure>
 
-Après avoir indiqué le numéro SIRET et cliqué sur le bouton « Valider », un récapitulatif des informations récupérées auprès de l'INSEE et d'Infogreffe s'affiche comme suit :
+Après avoir indiqué le numéro RIDET et cliqué sur le bouton « Valider », un récapitulatif des informations de l'établissement s'affiche comme suit :
 
 <figure><img src="../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
 
@@ -120,7 +120,7 @@ Vous pouvez inviter plusieurs personnes à co-construire votre dossier.
 
 <figure><img src="../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
 
-La personne invitée reçoit alors un e-mail l’invitant à se connecter sur démarche numérique afin d'accéder au dossier. Une fois connecté, l’invité a accès à l’ensemble du dossier et est libre de le modifier ou le compléter.
+La personne invitée reçoit alors un e-mail l’invitant à se connecter sur Démarches simplifiées afin d'accéder au dossier. Une fois connecté, l’invité a accès à l’ensemble du dossier et est libre de le modifier ou le compléter.
 
 **Toutefois, l'invité ne peut pas déposer le dossier. Seul l'usager à l'origine de la création du dossier dispose des droits pour déposer celui-ci.**
 
@@ -198,7 +198,7 @@ Exemple d'attestation de dépôt
 
 ### A. Présentation du tableau de bord
 
-En se connectant avec son adresse e-mail et son mot de passe ou via France connect, l'usager a accès à plusieurs onglets : « en cours » , « traités », « dossiers invités », « expirant », «corbeille » et « historique des dossiers supprimés ».
+En se connectant avec son adresse e-mail et son mot de passe ou via NC Connect, l'usager a accès à plusieurs onglets : « en cours » , « traités », « dossiers invités », « expirant », «corbeille » et « historique des dossiers supprimés ».
 
 <figure><img src="../.gitbook/assets/image (278).png" alt=""><figcaption></figcaption></figure>
 

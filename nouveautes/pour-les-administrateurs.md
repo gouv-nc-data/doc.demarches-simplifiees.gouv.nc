@@ -1,20 +1,20 @@
 ---
 description: >-
   Retrouvez ici toutes les nouveautés développées pour les administrateurs de
-  demarche.numerique.gouv.fr
+  demarches-simplifiees.gouv.nc
 ---
 
 # Pour les administrateurs
 
-### Retrouvez toutes les nouveautés et l'actualité de **demarche.numerique.gouv.fr** depuis l'onglet "nouveautés" de votre compte  :&#x20;
+### Retrouvez toutes les nouveautés et l'actualité de **demarches-simplifiees.gouv.nc** depuis l'onglet "nouveautés" de votre compte  :&#x20;
 
 <figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 ### Changement de couleurs
 
-Afin de permettre aux citoyens d'avoir une cohérence graphique et une meilleure expérience à travers l'ensemble des sites de l'État, le site **demarche.numerique.gouv.fr** s'adapte progressivement au Système de Design de l'État.\
+Afin de permettre aux citoyens d'avoir une cohérence graphique et une meilleure expérience à travers l'ensemble des sites de l'État, le site **demarches-simplifiees.gouv.nc** s'adapte progressivement au Système de Design de l'État.\
 \
-La première phase d'adaptation de **demarche.numerique.gouv.fr** se situe au niveau des couleurs et dans les prochains mois d'autres changements seront visibles au niveau des composants et icônes.
+La première phase d'adaptation de **demarches-simplifiees.gouv.nc** se situe au niveau des couleurs et dans les prochains mois d'autres changements seront visibles au niveau des composants et icônes.
 
 ## Modification d'une démarche en ligne
 
@@ -58,7 +58,7 @@ La description de votre démarche et les descriptions de vos champs peuvent êtr
 * faire un paragraphe
 * mettre votre texte sous forme de titre.
 
-Retrouvez plus d'informations dans notre aide[ en cliquant ici. ](https://faq.demarches-simplifiees.fr/article/76-puis-je-mettre-en-forme-le-texte-de-ma-demarche)
+Retrouvez plus d'informations dans notre aide[ en cliquant ici. ](https://faq.demarches-simplifiees.fr/article/76-puis-je-mettre-en-forme-le-texte-de-ma-demarche) _(version nationale : pas d'équivalent en Nouvelle-Calédonie)_
 
 ## La page de description de la démarche change d'interface
 
@@ -66,11 +66,11 @@ Elle a été simplifiée et suit désormais la charte graphique du reste du site
 
 ![](<../.gitbook/assets/Screenshot 2019-11-13 at 14.53.27.png>)
 
-## Changez l'adresse email associée à votre compte **demarche.numerique.gouv.fr**&#x20;
+## Changez l'adresse email associée à votre compte **demarches-simplifiees.gouv.nc**&#x20;
 
 ![](../.gitbook/assets/screely-1568035441437.png)
 
-Vous pouvez désormais facilement modifier l'adresse e-mail associée à votre compte **demarche.numerique.gouv.fr**. Plus d'informations ici :&#x20;
+Vous pouvez désormais facilement modifier l'adresse e-mail associée à votre compte **demarches-simplifiees.gouv.nc**. Plus d'informations ici :&#x20;
 
 {% embed url="https://www.demarches-simplifiees.fr/faq/usager/je-veux-changer-mon-adresse-email" %}
 
@@ -80,7 +80,7 @@ Vous pouvez désormais facilement modifier l'adresse e-mail associée à votre c
 
 Il est désormais possible de proposer à l'usager d'évaluer votre démarche grâce à [https://monavis.numerique.gouv.fr/](https://monavis.numerique.gouv.fr/), et ce, même si celle-ci est déjà publiée !&#x20;
 
-Plus d'informations ici : [https://doc.demarche.numerique.gouv.fr/tutoriels/integration-du-bouton-mon-avis](https://doc.demarche.numerique.gouv.fr/tutoriels/integration-du-bouton-mon-avis)
+Plus d'informations ici : [https://doc.demarche.numerique.gouv.fr/tutoriels/integration-du-bouton-mon-avis](https://doc.demarche.numerique.gouv.fr/tutoriels/integration-du-bouton-mon-avis) _(version nationale : pas d'équivalent en Nouvelle-Calédonie)_
 
 ## Soyez plusieurs administrateurs sur une même démarche&#x20;
 

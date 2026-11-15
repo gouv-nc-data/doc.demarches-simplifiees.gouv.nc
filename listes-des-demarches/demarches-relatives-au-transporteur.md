@@ -1,5 +1,6 @@
 ---
 description: Vous trouverez ci-dessous la liste des démarches relatives aux transporteurs.
+hidden: true
 ---
 
 # Démarches relatives aux transporteurs

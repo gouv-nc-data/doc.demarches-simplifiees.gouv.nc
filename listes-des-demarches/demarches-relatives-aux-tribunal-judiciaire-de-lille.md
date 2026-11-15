@@ -3,6 +3,7 @@ description: >-
   Vous trouverez ci-dessous les liens vers les démarches déployées par le
   Tribunal judiciaire de Lille. Pour y accéder, il vous suffit de cliquer sur
   l'intitulé de la démarche concernée.
+hidden: true
 ---
 
 # Démarches relatives aux Tribunal judiciaire de Lille

@@ -1,7 +1,7 @@
 ---
 description: >-
   Vous trouverez dans cette page un tutoriel qui explique comment dupliquer des
-  démarches modèles déja existantes sur demarche.numerique.gouv.fr en fonction
+  démarches modèles déja existantes sur demarches-simplifiees.gouv.nc en fonction
   d'une thématique.
 ---
 
@@ -11,11 +11,11 @@ description: >-
 
 Sans compte administrateur, vous n'avez pas les droits pour créer des démarches en ligne.
 
-Pour obtenir un compte administrateur, je vous invite à remplir le formulaire suivant :\
-[https://demarche.numerique.gouv.fr/commencer/inscription-admin-demarche-numerique](https://demarche.numerique.gouv.fr/commencer/inscription-admin-demarche-numerique)
+Pour obtenir un compte administrateur, je vous invite à en faire la demande par e-mail :\
+[contact-demarches@gouv.nc](mailto:contact-demarches@gouv.nc)
 
 \
-Une fois le dossier accepté, nous vous créerons le compte administrateur et vous aurez les accès pour passer à l’étape 2.&#x20;
+Une fois la demande acceptée, nous vous créerons le compte administrateur et vous aurez les accès pour passer à l’étape 2.&#x20;
 
 ## Etape 2: Connexion à l'interface administrateur
 
@@ -33,7 +33,7 @@ Lorsque vous arrivez sur la page "Toutes les démarches", vous avez plusieurs fa
 
 <figure><img src="../.gitbook/assets/Etape 3.png" alt=""><figcaption><p>(1) "Mes zones", (2) "Rechercher des démarches par libellé"</p></figcaption></figure>
 
-3: « Service »: vous pouvez faire une recherche grâce au numéro de Siret de l’administration qui a mis en place la démarche
+3: « Service »: vous pouvez faire une recherche grâce au numéro RIDET de l’administration qui a mis en place la démarche
 
 4: "Date de publication": vous pouvez trier les démarches en fonction de la date de publication
 

@@ -1,5 +1,5 @@
 ---
-description: Comment créer sa démarche sur demarche.numerique.gouv.fr ? version métropolitaine
+description: Comment créer sa démarche sur demarches-simplifiees.gouv.nc ?
 ---
 
 # Tutoriel administrateur
@@ -22,7 +22,7 @@ Une fois votre demande acceptée, vous recevrez un e-mail vous invitant à crée
 
 Attention : tous les 30 jours, une nouvelle fois pour des raisons de sécurité,  nous vous enverrons un mail vous demandant de vérifier votre compte. Il suffit alors de cliquer sur le lien contenu dans l'e-mail envoyé automatiquement par nos services.
 
-## 2. Se connecter à **demarche.numerique.gouv.fr**&#x20;
+## 2. Se connecter à **demarches-simplifiees.gouv.nc**&#x20;
 
 [Rendez-vous sur la page d’accueil](https://demarches-simplifiees.gouv.nc/agent_connect)) et cliquez sur le bouton connexion. Vous arrivez alors sur la page de connexion. Rentrez l’e-mail lié au compte et le mot de passe indiqué lors de la création de votre compte.
 
@@ -74,7 +74,7 @@ La liste des démarches associées à l'intitulé recherché s'affichera et vous
 
 Une copie de la démarche apparaît automatiquement dans les démarches en test.&#x20;
 
-**Vous pouvez également rechercher une démarche depuis l'onglet** [**"toutes les démarches".**](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-administrateur#id-4.-decouvrir-le-tableau-de-bord-de-lensemble-des-demarches-publiees)&#x20;
+**Vous pouvez également rechercher une démarche depuis l'onglet** [**"toutes les démarches".**](https://gouv-nc.gitbook.io/doc.demarches-simplifiees.gouv.nc/tutoriels/tutoriel-administrateur#id-4.-decouvrir-le-tableau-de-bord-de-lensemble-des-demarches-publiees)&#x20;
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
@@ -82,7 +82,7 @@ Le principe est le même, il vous suffit de rechercher la démarche que vous sou
 
 En clonant la démarche, le gain de temps est considérable ! Il vous suffira uniquement de modifier la démarche afin de la personnaliser en fonction de vos besoins !&#x20;
 
-**Enfin, nous mettons également à votre disposition des démarches modèles prêtes à l'emploi . Voici le lien vers la documentation dédiée :** [https://doc.demarche.numerique.gouv.fr/listes-des-demarches/demarches-modeles-a-dupliquer](https://doc.demarche.numerique.gouv.fr/listes-des-demarches/demarches-modeles-a-dupliquer)
+**Enfin, nous mettons également à votre disposition des démarches modèles prêtes à l'emploi . Voici le lien vers la documentation dédiée :** [https://gouv-nc.gitbook.io/doc.demarches-simplifiees.gouv.nc/listes-des-demarches/demarches-modeles-a-dupliquer](https://gouv-nc.gitbook.io/doc.demarches-simplifiees.gouv.nc/listes-des-demarches/demarches-modeles-a-dupliquer)
 
 {% hint style="info" %}
 **ATTENTION** : les administrateurs ont la liberté de choisir l'intitulé de leurs démarches, il n’est donc pas toujours homogène. Nous vous conseillons de tester plusieurs mots-clés pour une même recherche.&#x20;
@@ -137,7 +137,7 @@ Afin d’être en conformité avec le Règlement Général sur la Protection des
 <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**À savoir que les dossiers sur demarche.numerique.gouv.fr seront automatiquement supprimés de la plateforme une fois cette période dépassée. L'usager est prévenu 2 semaines à l'avance  par mail.**&#x20;
+**À savoir que les dossiers sur demarches-simplifiees.gouv.nc seront automatiquement supprimés de la plateforme une fois cette période dépassée. L'usager est prévenu 2 semaines à l'avance  par mail.**&#x20;
 {% endhint %}
 
 Cependant tant l'instructeur que l'usager peuvent étendre la durée de conservation.&#x20;
@@ -185,7 +185,7 @@ Les premiers éléments que vous venez de renseigner sont les premières informa
 
 Votre démarche s’adresse-t-elle à des personnes morales ou à des particuliers ? Ce choix détermine la seconde page de votre démarche sur laquelle l’usager sera renvoyé après s’être connecté.&#x20;
 
-* **Personnes morales** : l’usager est tenu de renseigner son numéro SIRET. Celui-ci nous permet d'interroger directement les bases de l’INSEE, d’Infogreffe et du Répertoire National des Associations (RNA) afin de recueillir automatiquement des informations sur les entreprises (raison sociale, adresse, code NAF).
+* **Personnes morales** : l’usager est tenu de renseigner son numéro RIDET (attribué par l'ISEE). La récupération automatique des informations de l'entreprise (API Entreprise) est en cours de mise en place en Nouvelle-Calédonie pour une utilisation sous Démarches simplifiées.
 * **Particuliers** : l'usager renseigne simplement son nom et son prénom. Si celui-ci ne les indique pas, il ne pourra pas se rendre sur la troisième page qui correspond au corps du formulaire. Si vous choisissez cette option, nul besoin de lui demander son nom et prénom dans votre formulaire.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 10.21.47.png" alt=""><figcaption></figcaption></figure>
@@ -259,13 +259,13 @@ Le titre de section permet de segmenter et de structurer votre formulaire.  En e
 
 #### **b) Bloc répétable**
 
-Ce champ permet à l'usager de saisir un certain nombre de champs autant de fois qu'il le souhaite. Pour savoir comment l'utiliser, je vous invite à vous rendre sur la page dédiée en cliquant [ici](https://faq.demarches-simplifiees.fr/article/48-les-blocs-repetables). &#x20;
+Ce champ permet à l'usager de saisir un certain nombre de champs autant de fois qu'il le souhaite. Pour savoir comment l'utiliser, je vous invite à vous rendre sur la page dédiée en cliquant [ici](https://faq.demarches-simplifiees.fr/article/48-les-blocs-repetables) _(version nationale : pas d'équivalent en Nouvelle-Calédonie)_. &#x20;
 
 <figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption><p>Exemple de "bloc répétable", en tant qu'usager </p></figcaption></figure>
 
 #### **c) Lien vers un autre dossier**&#x20;
 
-Ce type de champ donne la possibilité de relier deux dossiers déposés sur **demarche.numerique.gouv.fr** entre eux.&#x20;
+Ce type de champ donne la possibilité de relier deux dossiers déposés sur **demarches-simplifiees.gouv.nc** entre eux.&#x20;
 
 Exemple : je fais une demande de subvention en 2019 et en 2020, je dois en faire le bilan. En choisissant ce type de champ, l’usager indique seulement le numéro du dossier 2019 dans son dossier 2020, et l’instructeur peut alors accéder facilement à la demande grâce à un lien présent dans le bilan.&#x20;
 
@@ -335,11 +335,11 @@ Ce champ permet uniquement de collecter les numéros Iban valides français.
 
 <figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption><p>Le champ "Iban", en tant qu'usager </p></figcaption></figure>
 
-#### b) Le numéro Siret&#x20;
+#### b) Le numéro RIDET&#x20;
 
-Ce champ permet de collecter le numéro Siret ainsi que les informations administratives reliées à ce numéro grâce à l'API Entreprise. Vous trouverez également la liste des informations remontées automatiquement.
+Ce champ permet de collecter le numéro RIDET de l'entreprise ou de l'établissement. La récupération automatique des informations de l'entreprise (API Entreprise) est en cours de mise en place en Nouvelle-Calédonie pour une utilisation sous Démarches simplifiées.
 
-Le numéro SIRET doit comporter exactement 14 chiffres.&#x20;
+Le numéro RIDET est composé du numéro d'entreprise (7 chiffres), d'un point, puis du numéro d'établissement (3 chiffres). Format attendu : `#######.###` (exemple : `1234567.890`).&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-08-06 à 15.58.46.png" alt=""><figcaption></figcaption></figure>
 
@@ -525,7 +525,7 @@ Du point de vue de l'administrateur, lorsque le champ "carte" est sélectionné,
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-28 à 10.24.08.png" alt=""><figcaption></figcaption></figure>
 
-Ce champ permet de faire appel à l’API géo. Sur un fond de carte, l’usager peut dessiner la localisation de son projet. Sont alors automatiquement ressortis les champs sélectionnés au préalable (Réserves naturelles, cadastres, etc) . Vous pouvez consulter le tutoriel dédié en cliquant [ici.](https://doc.demarches-simplifiees.fr/pour-aller-plus-loin/cartographie)&#x20;
+Ce champ permet de faire appel à l’API géo. Sur un fond de carte, l’usager peut dessiner la localisation de son projet. Sont alors automatiquement ressortis les champs sélectionnés au préalable (Réserves naturelles, cadastres, etc) . Vous pouvez consulter le tutoriel dédié en cliquant [ici.](https://gouv-nc.gitbook.io/doc.demarches-simplifiees.gouv.nc/pour-aller-plus-loin/cartographie)&#x20;
 
 <figure><img src="../.gitbook/assets/image (100).png" alt=""><figcaption><p>Champ "Carte" en tant qu'usager </p></figcaption></figure>
 
@@ -549,7 +549,7 @@ Exemple : si vous demandez le numéro de téléphone vous pouvez préciser : ren
 
 En tant qu'administrateur, vous pouvez conditionner vos champs en fonction des réponses des champs précédents afin de simplifier vos formulaires.&#x20;
 
-Pour activer le conditionnel, nous vous renvoyons à [la documentation dédiée à cette fonctionnalité ](https://doc.demarches-simplifiees.fr/pour-aller-plus-loin/le-conditionnel)
+Pour activer le conditionnel, nous vous renvoyons à [la documentation dédiée à cette fonctionnalité ](https://gouv-nc.gitbook.io/doc.demarches-simplifiees.gouv.nc/pour-aller-plus-loin/le-conditionnel)
 
 ### E. Modifier l’ordre des champs
 
@@ -576,7 +576,7 @@ Avant de cocher cette case, assurez-vous que tous les usagers disposeront de l'i
 Une estimation de la durée nécessaire pour remplir le formulaire est affichée en bas de l’écran. Cette durée est calculée en fonction du nombre et du type des champs :
 
 * Champs rapides (texte, case à cocher, etc) : 10 secondes
-* Champs moyens (adresse, SIRET, IBAN, etc): 1 minute
+* Champs moyens (adresse, RIDET, IBAN, etc): 1 minute
 * Champs longs (pièces justificatives, etc) : 3 minutes
 
 L’estimation considère qu’un bloc répétable est répété en moyenne entre 2 et 3 fois, et qu’un champ optionnel est rempli en moyenne une fois sur deux.
@@ -585,7 +585,7 @@ Pour réduire la durée de remplissage de votre démarche, réellement simplifie
 
 * **Demander uniquement les informations strictement nécessaires** à la démarche.&#x20;
 * **Demander moins de pièces justificatives**. Chaque pièce justificative nécessite généralement de retrouver un document papier et de le scanner (avec un scanner ou un téléphone), puis de le transférer sur l'appareil où on remplit la démarche pour l'envoyer. Un excès de pièces justificatives est une source majeure d’abandon de la démarche.
-* **Utiliser les API pour récupérer des informations**. Vous pouvez par exemple demander le n° SIRET pour obtenir automatiquement des informations sur un établissement (plutôt que de demander ces informations une par une) ; ou interroger l’annuaire Éducation.
+* **Utiliser les API pour récupérer des informations**. Vous pouvez par exemple demander le n° RIDET pour obtenir automatiquement des informations sur un établissement, plutôt que de demander ces informations une par une (API Entreprise en cours de mise en place en Nouvelle-Calédonie).
 
 _Voir aussi : les_ [_bonnes pratiques pour la création d’une démarche_](les-bonnes-pratiques-lors-de-la-creation-dune-demarche.md)_._
 
@@ -612,7 +612,7 @@ Vous pouvez également transmettre **une copie de votre démarche** à vos coll�
 
 Vous venez de finir votre formulaire, il convient désormais d’en prévoir les modalités d’instruction. Il s’agit de déterminer le processus que suivra l’instructeur pour traiter les dossiers déposés par l’usager.&#x20;
 
-À cette fin, **demarche.numerique.gouv.fr** vous propose d’utiliser des **annotations privées**, véritable **formulaire à remplir cette fois-ci par l’instructeur lors de l’instruction d’un dossier.**&#x20;
+À cette fin, **demarches-simplifiees.gouv.nc** vous propose d’utiliser des **annotations privées**, véritable **formulaire à remplir cette fois-ci par l’instructeur lors de l’instruction d’un dossier.**&#x20;
 
 D’autres fonctionnalités comme **les avis externes et la co-construction usager** peuvent être utilisés dans le cadre de l’élaboration d’un processus d’instruction. Néanmoins, vous avez la possibilité de les construire ultérieurement.
 
@@ -638,7 +638,7 @@ Une fois le formulaire annotations privées créé, vous pouvez alors cliquer su
 
 ## 10. Informer l’usager sur l’état d’avancement de sa démarche
 
-Il convient désormais de penser d’un point de vue usager à la vie de la démarche suite à la transmission du dossier. Dès à présent, il faut envisager les modalités d’information de l’usager sur l’état d’avancement de son dossier. Pour cela, **demarche.numerique.gouv.fr** envoie des e-mails dans lesquels vous pouvez communiquer les informations souhaitées.
+Il convient désormais de penser d’un point de vue usager à la vie de la démarche suite à la transmission du dossier. Dès à présent, il faut envisager les modalités d’information de l’usager sur l’état d’avancement de son dossier. Pour cela, **demarches-simplifiees.gouv.nc** envoie des e-mails dans lesquels vous pouvez communiquer les informations souhaitées.
 
 ### Les e-mails automatiques&#x20;
 
@@ -732,13 +732,13 @@ Une fois l'instructeur affecté, un bandeau de confirmation s'affiche. L'instruc
 
 ### B. Dans le cadre de l'utilisation du routage
 
-Il est désormais possible d'affecter automatiquement les dossiers à des groupes d'instructeurs préalablement définis à l'avance. Pour en savoir plus, nous vous invitons à consulter notre page consacrée à la fonction routage en cliquant [ici](https://doc.demarches-simplifiees.fr/pour-aller-plus-loin/routage).&#x20;
+Il est désormais possible d'affecter automatiquement les dossiers à des groupes d'instructeurs préalablement définis à l'avance. Pour en savoir plus, nous vous invitons à consulter notre page consacrée à la fonction routage en cliquant [ici](https://gouv-nc.gitbook.io/doc.demarches-simplifiees.gouv.nc/pour-aller-plus-loin/routage).&#x20;
 
 ## **12. La gestion des** « **avis experts invités** » **de votre démarche**
 
 En tant qu'administrateur de la démarche, vous bénéficiez de la possibilité de donner des droits aux instructeurs pour que ces derniers sollicitent l'avis d'experts invités. En effet, afin d'être en conformité avec le Règlement Général sur la Protection des Données (article 32-4 du RGPD), il convient d'assurer la traçabilité des actions de traitement des données personnelles menées par les personnes qui sont habilitées à traiter un dossier, c'est-à-dire les instructeurs de la démarche. &#x20;
 
-Ainsi, vous disposez désormais de plusieurs fonctionnalités en ce qui concerne la gestion des experts invités qui seront sollicités par les instructeurs à donner leurs avis. Pour en savoir plus concernant les « experts invités », nous vous invitons à consulter notre page consacrée au tutoriel « experts invités » en cliquant [ici](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-expert-invite).&#x20;
+Ainsi, vous disposez désormais de plusieurs fonctionnalités en ce qui concerne la gestion des experts invités qui seront sollicités par les instructeurs à donner leurs avis. Pour en savoir plus concernant les « experts invités », nous vous invitons à consulter notre page consacrée au tutoriel « experts invités » en cliquant [ici](https://gouv-nc.gitbook.io/doc.demarches-simplifiees.gouv.nc/tutoriels/tutoriel-expert-invite).&#x20;
 
 #### &#x20;                 **Présentation générale de l'onglet** « **avis externes** »&#x20;
 
@@ -831,7 +831,12 @@ Ainsi, si vous souhaitez activer cette fonctionnalité, il vous suffit de clique
 
 ## 13. Proposez l'évaluation de votre démarche par les usagers
 
-Proposez aux usagers de donner un avis sur votre démarche, grâce à l’outil mis à disposition par l'[Observatoire de la qualité des démarches en ligne.](https://observatoire.numerique.gouv.fr/) **demarche.numerique.gouv.fr** permet l'intégration directe de l'outil « MonAvis » au sein de votre démarche. Pour en savoir plus, vous pouvez consulter [l'article dédié en cliquant ici.](https://doc.demarches-simplifiees.fr/tutoriels/integration-du-bouton-mon-avis)
+{% hint style="info" %}
+L'outil « MonAvis » de l'Observatoire de la qualité des démarches en ligne relève de la version nationale : **pas d'équivalent en Nouvelle-Calédonie** à ce jour.
+{% endhint %}
+
+
+Proposez aux usagers de donner un avis sur votre démarche, grâce à l’outil mis à disposition par l'[Observatoire de la qualité des démarches en ligne.](https://observatoire.numerique.gouv.fr/) **demarches-simplifiees.gouv.nc** permet l'intégration directe de l'outil « MonAvis » au sein de votre démarche. Pour en savoir plus, vous pouvez consulter [l'article dédié en cliquant ici.](https://doc.demarches-simplifiees.fr/tutoriels/integration-du-bouton-mon-avis) _(version nationale : pas d'équivalent en Nouvelle-Calédonie)_
 
 ![](<../.gitbook/assets/image (59).png>)
 
@@ -876,6 +881,11 @@ Les couleurs disponibles permettent aux instructeurs de s’y retrouver plus fac
 
 ## 17. La prise de RDV&#x20;
 
+{% hint style="info" %}
+La prise de rendez-vous via **RDV Service Public** (connexion ProConnect) est une fonctionnalité de la version nationale : **pas d'équivalent en Nouvelle-Calédonie** à ce jour.
+{% endhint %}
+
+
 Vous avez la possibilité de paramétrer la prise de RDV sur vos démarches. Vous pouvez autoriser ou non les instructeurs à proposer des rendez-vous aux usagers qui déposeront des dossiers.&#x20;
 
 <div><figure><img src="../.gitbook/assets/Capture d’écran 2025-09-17 à 16.21.13.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Capture d’écran 2025-09-17 à 16.27.40.png" alt=""><figcaption></figcaption></figure></div>
@@ -904,7 +914,7 @@ Vous serez redirigé vers les options de configuration RDV Service Public. Vous 
 
 Depuis la carte "agents", vous pouvez voir, modifier et ajouter des agents.
 
-Il sera nécessaire d’ajouter tous les agents instructeurs avec l’email utilisé pour leur compte **demarche.numerique.gouv.fr**.
+Il sera nécessaire d’ajouter tous les agents instructeurs avec l’email utilisé pour leur compte **demarches-simplifiees.gouv.nc**.
 
 Ils recevront alors une invitation par email à valider 💡
 
@@ -954,7 +964,7 @@ Une fois ces paramètres renseignés, vous devez cliquer sur "créer le motif" a
 **ATTENTION :** avant de publier votre démarche, il est nécessaire d'avoir fait un test global de celle-ci, du dépô du dossier à l'instruction complète de celui-ci, grâce au lien de test disponible dans l'onglet « Test et publication » de la démarche.
 {% endhint %}
 
-La publication de la démarche génère un lien de la forme : "https://www.demarche.numerique.gouv.fr/commencer/xxxxx". Les usagers qui disposent de ce lien pourront déposer un dossier. Pour cela, rendez-vous dans l'onglet « Test et publication », puis cliquez sur le bouton « Publier », situé en haut à droite de votre écran.
+La publication de la démarche génère un lien de la forme : "https://demarches-simplifiees.gouv.nc/commencer/xxxxx". Les usagers qui disposent de ce lien pourront déposer un dossier. Pour cela, rendez-vous dans l'onglet « Test et publication », puis cliquez sur le bouton « Publier », situé en haut à droite de votre écran.
 
 <figure><img src="../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 
@@ -962,7 +972,7 @@ La fenêtre suivante apparaît :&#x20;
 
 <figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
-Nous vous recommandons de personnaliser la partie de l'URL située après "/commencer/" avec des mots lisibles par l'usager. La partie "https://www.demarche.numerique.gouv.fr/commencer/" de l'URL n'est pas modifiable.
+Nous vous recommandons de personnaliser la partie de l'URL située après "/commencer/" avec des mots lisibles par l'usager. La partie "https://demarches-simplifiees.gouv.nc/commencer/" de l'URL n'est pas modifiable.
 
 Vous pouvez ensuite indiquer si la démarche à publier en remplace une ancienne afin d'orienter les  usagers vers la nouvelle démarche.&#x20;
 

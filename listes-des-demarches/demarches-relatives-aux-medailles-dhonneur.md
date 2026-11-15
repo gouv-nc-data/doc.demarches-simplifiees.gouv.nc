@@ -2,6 +2,7 @@
 description: >-
   Retrouvez sur cette page les démarches relatives aux demandes de médailles
   d'honneur
+hidden: true
 ---
 
 # Démarches relatives aux médailles d'honneur

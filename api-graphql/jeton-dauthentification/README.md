@@ -46,7 +46,7 @@ Ce jeton doit être fourni dans l’en-tête HTTP `Authorization` de la requête
 
 ## GraphQL
 
-<mark style="color:green;">`POST`</mark> `https://demarche.numerique.gouv.fr/api/v2/graphql`
+<mark style="color:green;">`POST`</mark> `https://demarches-simplifiees.gouv.nc/api/v2/graphql`
 
 Le point d’entrée de l’API GraphQL.
 
@@ -113,7 +113,7 @@ Le point d’entrée de l’API GraphQL.
 Pour tester l’API, le plus simple est d’effectuer une requête [curl](https://fr.wikipedia.org/wiki/CURL) telle que ci dessous. Le principe est le même avec un autre client HTTP : remplacez **votre\_token** et **votre\_numero\_de\_demarche** par les valeurs souhaitez, et n’oubliez pas de préciser le **content-type** qui est toujours `application/json` **:**
 
 ```shell
-curl 'https://demarche.numerique.gouv.fr/api/v2/graphql' \
+curl 'https://demarches-simplifiees.gouv.nc/api/v2/graphql' \
     --header 'Authorization: Bearer <votre_token>' \
     --header 'Content-Type: application/json' \
     --data '{ "query": "query getDemarche($demarcheNumber: Int!) { demarche(number: $demarcheNumber) { id dossiers { nodes { id demandeur { ... on PersonnePhysique { civilite nom prenom } ... on PersonneMorale { siret } } } } } }", "variables": { "demarcheNumber": <votre_numero_de_demarche> } }'
@@ -126,7 +126,7 @@ Exemple si mon jeton est `A9Knc34tP==` avec le numéro de démarche `12345`:&#x2
 {% endhint %}
 
 ```sh
-curl 'https://demarche.numerique.gouv.fr/api/v2/graphql' \
+curl 'https://demarches-simplifiees.gouv.nc/api/v2/graphql' \
     --header 'Authorization: Bearer A9Knc34tP==' \
     --header 'Content-Type: application/json' \
     --data '{ "query": "query getDemarche($demarcheNumber: Int!) { demarche(number: $demarcheNumber) { id dossiers { nodes { id demandeur { ... on PersonnePhysique { civilite nom prenom } ... on PersonneMorale { siret } } } } } }", "variables": { "demarcheNumber": 12345 } }'

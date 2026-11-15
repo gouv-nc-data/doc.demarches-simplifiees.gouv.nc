@@ -1,5 +1,9 @@
 # Vidéo : le cadre juridique
 
+{% hint style="info" %}
+Cette page décrit le cadre de la **version nationale** de la plateforme (demarche.numerique.gouv.fr). Elle est conservée à titre de référence. Pour demarches-simplifiees.gouv.nc, contactez [contact-demarches@gouv.nc](mailto:contact-demarches@gouv.nc).
+{% endhint %}
+
 {% embed url="https://vimeo.com/333750084" %}
 5 minutes
 {% endembed %}
